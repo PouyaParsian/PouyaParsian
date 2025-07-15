@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working with **Chartic team — financial markets**
+- 🔭 I’m currently working with [Chartic team](https://chartic.app/)
 - 🌱 I’m currently learning **backend development and advanced C#**
 - 💬 Ask me about **frontend, UI/UX design, and coding**
 - 👨‍💻 All of my projects are available at [github.com/PouyaParsian](https://github.com/PouyaParsian)
