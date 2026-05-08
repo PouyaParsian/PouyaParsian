@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">A passionate Frontend Developer from Iran</h3>
+<h3 align="center">A passionate Full‑Stack Developer from Iran</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/21374609/file/original-aab4fed54e17b77f5da6c9a4a0931a74.gif" width="400" alt="coding gif"/>
@@ -8,8 +8,7 @@
 ---
 
 - 🔭 I’m currently working with [Chartic team](https://chartic.app/)
-- 🌱 I’m currently learning **backend development and advanced C#**
-- 💬 Ask me about **frontend, UI/UX design, and coding**
+- 💬 Ask me about **frontend or backend, UI/UX design, and coding**
 - 👨‍💻 All of my projects are available at [github.com/PouyaParsian](https://github.com/PouyaParsian)
 - 📫 Reach me at: **pouya.parsian.dev@gmail.com**
 
